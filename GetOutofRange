@@ -3,7 +3,7 @@
 	"EquipmentName": "AHU-01",
 	"ParameterID": "18",
 	"ParameterName": "Run status",
-	"status": "G",
+	"status": "R",
 	"Time": "5/24/2017 7:32:00 PM"
 }, {
 	"EquipmentID": "2",
