@@ -73,7 +73,7 @@
 	"EquipmentName": "ETP-01",
 	"ParameterID": "1",
 	"ParameterName": "Run Status",
-	"status": "G",
+	"status": "Y",
 	"Time": "4/18/2017 11:52:00 PM"
 }, {
 	"EquipmentID": "1",
