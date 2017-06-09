@@ -4,6 +4,7 @@
 	"ParameterID": "18",
 	"ParameterName": "Run status",
 	"status": "R",
+	"priority": "H",
 	"Time": "5/24/2017 7:32:00 PM"
 }, {
 	"EquipmentID": "2",
@@ -11,6 +12,7 @@
 	"ParameterID": "21",
 	"ParameterName": "De Grime Chemical",
 	"status": "G",
+	"priority": "H",
 	"Time": "3/21/2017 12:40:00 PM"
 }, {
 	"EquipmentID": "2",
@@ -18,6 +20,7 @@
 	"ParameterID": "100",
 	"ParameterName": " Tank Level",
 	"status": "Y",
+	"priority": "H",
 	"Time": "3/21/2017 12:40:00 PM"
 }, {
 	"EquipmentID": "2",
@@ -25,6 +28,7 @@
 	"ParameterID": "196",
 	"ParameterName": "Shift Status",
 	"status": "",
+	"priority": "H",
 	"Time": "3/21/2017 12:39:03 PM"
 }, {
 	"EquipmentID": "2",
@@ -32,6 +36,7 @@
 	"ParameterID": "267",
 	"ParameterName": "shiftstatus2",
 	"status": "R",
+	"priority": "H",
 	"Time": "3/21/2017 12:40:00 PM"
 }, {
 	"EquipmentID": "2",
@@ -39,6 +44,7 @@
 	"ParameterID": "270",
 	"ParameterName": "ss",
 	"status": "",
+	"priority": "H",
 	"Time": "3/21/2017 12:40:00 PM"
 }, {
 	"EquipmentID": "3",
@@ -46,6 +52,7 @@
 	"ParameterID": "23",
 	"ParameterName": "Run status",
 	"status": "G",
+	"priority": "M",
 	"Time": "5/28/2017 10:48:00 AM"
 }, {
 	"EquipmentID": "3",
@@ -53,6 +60,7 @@
 	"ParameterID": "24",
 	"ParameterName": "Neutrate - Chemical",
 	"status": "R",
+	"priority": "M",
 	"Time": "5/28/2017 10:48:00 AM"
 }, {
 	"EquipmentID": "3",
@@ -60,6 +68,7 @@
 	"ParameterID": "26",
 	"ParameterName": "Recvd Chem1",
 	"status": "G",
+	"priority": "M",
 	"Time": "5/10/2017 11:43:00 AM"
 }, {
 	"EquipmentID": "3",
@@ -67,6 +76,7 @@
 	"ParameterID": "27",
 	"ParameterName": "Cons Chem1",
 	"status": "Y",
+	"priority": "M",
 	"Time": "4/18/2017 11:51:00 PM"
 }, {
 	"EquipmentID": "1",
@@ -74,6 +84,7 @@
 	"ParameterID": "1",
 	"ParameterName": "Run Status",
 	"status": "Y",
+	"priority": "L",
 	"Time": "4/18/2017 11:52:00 PM"
 }, {
 	"EquipmentID": "1",
@@ -81,6 +92,7 @@
 	"ParameterID": "2",
 	"ParameterName": "Effluent - flow rate",
 	"status": "G",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }, {
 	"EquipmentID": "1",
@@ -88,6 +100,7 @@
 	"ParameterID": "3",
 	"ParameterName": "Collection Tank - pH",
 	"status": "R",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }, {
 	"EquipmentID": "1",
@@ -95,6 +108,7 @@
 	"ParameterID": "4",
 	"ParameterName": "Collection Tank- TDS",
 	"status": "G",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }, {
 	"EquipmentID": "1",
@@ -102,6 +116,7 @@
 	"ParameterID": "5",
 	"ParameterName": "Collection Tank - COD",
 	"status": "G",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }, {
 	"EquipmentID": "1",
@@ -109,6 +124,7 @@
 	"ParameterID": "6",
 	"ParameterName": "Collection Tank - BOD",
 	"status": "G",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }, {
 	"EquipmentID": "1",
@@ -116,6 +132,7 @@
 	"ParameterID": "7",
 	"ParameterName": "Primary Settling Tank - pH",
 	"status": "R",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }, {
 	"EquipmentID": "1",
@@ -123,6 +140,7 @@
 	"ParameterID": "8",
 	"ParameterName": "Primary Settling Tank- TDS",
 	"status": "G",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }, {
 	"EquipmentID": "1",
@@ -130,5 +148,6 @@
 	"ParameterID": "219",
 	"ParameterName": "Shiftstatus",
 	"status": "",
+	"priority": "L",
 	"Time": "3/16/2017 9:45:45 AM"
 }]
