@@ -155,7 +155,7 @@
 	"EquipmentName": "ETP Chemicals",
 	"ParameterID": "5",
 	"ParameterName": "Shiftstatus002",
-	"status": "R",
+	"status": "Y",
 	"priority": "M",
 	"Time": "3/16/2017 9:45:46 AM"
 }]
